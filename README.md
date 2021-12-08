@@ -1,2 +1,2 @@
-# audio-equalizer
-audio-equallizer
+# audio-visualizer
+audio-visualizer
